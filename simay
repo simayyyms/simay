@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Simay Kayış</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+</head>
+<body>
+<header>
+    <h1>Simay Kayış</h1>
+    <img src="img/image.jpg" width="300" alt="Simay Kayış"/>
+    <nav>
+        <ul>
+            <li><a href="#summary">Özet</a></li>
+            <li><a href="#education">Eğitim</a></li>
+            <li><a href="#skills">Yetenekler</a></li>
+            <li><a href="#contact">İletişim</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <article>
+        <section id="summary">
+            <h2>
+                Özet
+            </h2>
+            <p>
+                <i>Ben</i> <b>Simay</b> <i>buraya kendim hakkında bir şeyler yazacağım</i>
+            </p>
+        </section>
+        <section id="education">
+            <h2>Eğitim</h2>
+            <ul>
+				<li>
+                    <strong >75.Yıl Yeşilpınar İ.Ö.O</strong><br>
+                </li>
+                <li>
+                    <strong >Fatih Sultan Mehmet İ.H.O</strong><br>
+                </li>
+				<li>
+                    <strong >Kabataş Erkek Lisesi</strong><br>
+                    '25<br>
+                </li>
+            </ul>
+        </section>
+        <section id="skills">
+            <h2>Yetenekler</h2>
+            <ol>
+                <li>
+                    Yani çok bir yeteneğim var mı bilmiyorum.
+                </li>
+            </ol>
+        </section>
+    </article>
+</main>
+<footer>
+    <section id="contact">
+        <h2>İletişim</h2>
+        <ul>
+            <li>
+                <a href="kayis.simayy@gmail.com">E-mail</a>
+            </li>
+			<li><a href="https://kelrot17.github.io/dnme/">Github</a></li>
+        </ul>
+    </section>
+</footer>
+</body>
+</html>
